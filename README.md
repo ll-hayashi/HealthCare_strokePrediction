@@ -1,2 +1,2 @@
-# stroke prediction
-# HealthCare
+stroke prediction 
+HealthCare
